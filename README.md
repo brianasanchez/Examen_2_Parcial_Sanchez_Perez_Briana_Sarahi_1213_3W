@@ -9,9 +9,9 @@ asignatura y elimine de la lista las asignaturas aprobadas. Al final el
 programa debe mostrar por pantalla las asignaturas que el usuario tiene que
 repetir.
 
-![image](https://github.com/user-attachments/assets/2a3000d0-bc62-44ce-86f2-35010f1515b5)
+![image](https://github.com/user-attachments/assets/d6588946-5675-42ac-8dac-cd62e99a42f0)
 
-![image](https://github.com/user-attachments/assets/2cac8282-a60f-461b-8125-39aed7279741)
+![image](https://github.com/user-attachments/assets/fd2e9318-f705-411f-afe1-59c088c6f6f4)
 
 2
 Escribir un programa que almacene el diccionario
